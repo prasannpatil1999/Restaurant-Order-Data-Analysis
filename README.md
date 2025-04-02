@@ -188,9 +188,6 @@ group by category
  Asian     | 8          | 
  Mexican   | 9          | 
  Italian   | 9          | 
-
- 
-- American 6, Asian 8 , Italian 9 and mexican 9
   
 -- TASK 7: What is the average dish price  within each category?
 ````sql
@@ -213,10 +210,8 @@ select *
 from order_details
 ````
 **Results:**
-
 - Selects entire order_details table in result
-
-  
+ 
 -- TASK 9: What is the date range of  order_details table?
 ````sql
 -- max date
