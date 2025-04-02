@@ -63,7 +63,7 @@ order_details.csv: Includes order transactions with order IDs, item quantities, 
 - 📝 Problem Statement (Word File) - Outlines the business questions and objectives.
 
  ### How to Use
-1. Review the Problem Statement PDF to understand the key objectives.
+1. Review the Problem Statement Word file  to understand the key objectives.
 2. Use the Readme file to get answers
 
 ### Insights & Findings
