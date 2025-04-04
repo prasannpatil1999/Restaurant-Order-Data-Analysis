@@ -26,6 +26,8 @@ menu_items.csv: Contains details of menu items, including item names, categories
 
 order_details.csv: Includes order transactions with order IDs, item quantities, timestamps, and customer details, helping to track sales and dining trends.
 
+restaurant_db_data_dictionary.csv:  Contains details of Table, Field and Description
+
 ### Data Cleaning/Preparation
 - In the initial data preparation phase, we performed the following tasks:
 
@@ -37,7 +39,7 @@ order_details.csv: Includes order transactions with order IDs, item quantities, 
 - TASK 1: Is to expore menu_items table?
 - TASK 2: Is to count items in menu_items table?
 - TASK 3: Is to find least and most expensive items in menu_items table?
--  TASK 4: How many Italian disjhes are on menu_items table?
+- TASK 4: How many Italian disjhes are on menu_items table?
 - TASK 5: Is to find least and most expensive Itlain item in menu_items table?
 - TASK 6: How many dishes in each category?
 - TASK 7: What is the average dish price  within each category?
